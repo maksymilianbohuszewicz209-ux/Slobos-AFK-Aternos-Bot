@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "czestochowa-JCnF.aternos.me:27354",
+    "port": 27354,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
